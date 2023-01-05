@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Page d'accueil"
 permalink: /index.html
 ---
