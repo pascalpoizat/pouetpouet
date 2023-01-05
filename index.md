@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Page d'accueil"
-permalink: /
+permalink: /index.html
+---
 
 ## Quelques liens
 
